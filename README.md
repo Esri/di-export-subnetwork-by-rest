@@ -1,7 +1,7 @@
 # di-data-driven-electric-utility-external-systems-export-subnetwork
  ArcGis Blog for Utility Network Export Subnetwork
 
-This repo is for the sharing workspace and data published from this two part blog in ArcGIS Blog.
+This repo is for the sharing workspace published from this two part blog in ArcGIS Blog. This blog was writen by Jon De Rose and Renato Salvaleon.
 
 Part 1 - https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability/<br/>
 Part 2 - https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability-part2/<br/>
