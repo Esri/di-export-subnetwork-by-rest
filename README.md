@@ -1,4 +1,4 @@
-# di-leveraging-data-for=external-systems-export-subnetwork
+# di-leveraging-data-for-external-systems-export-subnetwork
  ArcGis Blog for Utility Network Export Subnetwork
 
 This repo is for the sharing workspace and data published this two part blog in ArcGIS Blog.
