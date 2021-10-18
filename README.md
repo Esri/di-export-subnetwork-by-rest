@@ -1,7 +1,7 @@
 # di-export-subnetwork-by-rest
  ArcGis Blog for Utility Network Export Subnetwork
 
-This repo is for the sharing workspace published from this two part blog in ArcGIS Blog. This blog was writen by Jon De Rose and Renato Salvaleon.
+This repo is for the sharing workspace published from this two part blog in ArcGIS Blog. This blog was wriyten by Jon De Rose and Renato Salvaleon.
 
 Part 1 - https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability/<br/>
 Part 2 - https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability-part2/<br/>
