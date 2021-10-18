@@ -4,10 +4,10 @@
 This repo is for sharing the workspace published in this two part blog in ArcGIS Blog. The blog was written by Jon De Rose and Renato Salvaleon.
 
 Leveraging Data for External Systems - Automating Export Subnetwork using Data Interoperability<br/>
-[Part 1 ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability/)<br/>
-[Part 2 ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability-part2/)<br/>
+[Part One ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability/)<br/>
+[Part Two ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability-part2/)<br/>
 
-This repo data interop workspace is also [available from the blog](https://community.esri.com/t5/arcgis-utility-network-documents/sample-workbench-file-leveraging-data-for-external/ta-p/1053123). <br/>
+This repo data interop workspace is also [available from part two of the blog](https://community.esri.com/t5/arcgis-utility-network-documents/sample-workbench-file-leveraging-data-for-external/ta-p/1053123). <br/>
 
 
 ## Features
