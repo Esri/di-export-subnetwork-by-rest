@@ -3,7 +3,7 @@
  
 This repo is for sharing the workspace published in this two part blog in ArcGIS Blog. The blog was written by Jon De Rose and Renato Salvaleon.
 
-Leveraging Data for External Systems - Automating Export Subnetwork using Data Interoperability
+Leveraging Data for External Systems - Automating Export Subnetwork using Data Interoperability<br/>
 [Part 1 ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability/)<br/>
 [Part 2 ](https://www.esri.com/arcgis-blog/products/utility-network/data-management/exporting-subnetworks-using-data-interoperability-part2/)<br/>
 
