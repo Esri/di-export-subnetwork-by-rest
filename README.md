@@ -18,6 +18,8 @@ This repo data interop workspace is also [available from part two of the blog](h
 
 1. Fork and then clone the repo. 
 2. Read the blog before you re-configure to your own utility network before you run.
+3. This workspace will not run without configuring correctly to your own enterprise utility network.
+4. Since not all utility networks are created exactly the same, after you have configured your network, it is highly possible that source attributes will need to be updated and after update some transformers and writers will have to be reconfigured after the update.
 
 ## Requirements
 
