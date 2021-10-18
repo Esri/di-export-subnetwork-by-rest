@@ -29,3 +29,6 @@ Automate yor ETL Processes blog - https://community.esri.com/t5/arcgis-data-inte
 
 Blog workspace download URL - https://community.esri.com/t5/arcgis-utility-network-documents/sample-workbench-file-leveraging-data-for-external/ta-p/1053123<br/>
 
+
+Apache License [text link](http://devinfo/sites/DeveloperCentral/github/SitePages/Repository%20Standards.aspx). 
+
